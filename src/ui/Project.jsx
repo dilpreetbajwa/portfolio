@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "./Container";
 import SectionTitle from "./SectionTitle";
-import { amazonImg, cyberImg, noorShop, githubcover, aiimage } from "../assets";
+import { githubcover, aiimage } from "../assets";
 import ProjectsLInks from "./ProjectsLInks";
 
 const Project = () => {
