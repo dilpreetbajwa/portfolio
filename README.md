@@ -1,6 +1,6 @@
 # Developer Portfolio Project
 
-![portfoliobdyt](https://github.com/user-attachments/assets/94113138-2143-443d-ad72-3f75aa8e244b)
+![portfoliobdyt](https://github.com/dilpreetbajwa/portfolio/src/assets/portfolio)
 
 ### Clone this repo
 ### in terminal type npm install
